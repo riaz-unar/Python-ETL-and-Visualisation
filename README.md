@@ -96,8 +96,6 @@ All figures are auto-exported to `reports/figures/` for slides or README embeddi
 3. **Execute notebook**  
    - Launch Jupyter or VS Code, open `notebooks/gapminder_etl_visualisation.ipynb`, run all cells.  
    - Outputs: cleaned CSV, validation report, static PNGs, Plotly HTML.
-4. **Present**  
-   - Use Insight Highlights (Notebook Section 5) + saved figures for the final presentation.
 
 ## Resilience Behaviours & Daily Reflections
 
