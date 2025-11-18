@@ -89,7 +89,7 @@ All figures are auto-exported to `reports/figures/` for slides or README embeddi
    cd Python-ETL-and-Visualisation
    python -m venv .venv
    .venv\\Scripts\\activate
-   pip install -r requirements.txt  # if exported, otherwise pip install pandas numpy matplotlib seaborn plotly
+   pip install -r requirements.txt
    ```
 2. **(Re)download data**  
    - Either rerun `Invoke-WebRequest` command from setup or let the notebook download via `extract_gapminder`.
